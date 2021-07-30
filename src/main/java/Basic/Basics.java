@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.*;
 
 public class Basics {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         //Implement add place API
         //Given-- All input details: query_parameter, header and body
